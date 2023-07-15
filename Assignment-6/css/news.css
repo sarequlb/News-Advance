@@ -1,0 +1,10 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.row{
+    margin-bottom: 8%;
+}
+.reporter-img{
+    width: 50px;
+    border-radius: 50%;
+}
